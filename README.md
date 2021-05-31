@@ -43,3 +43,11 @@ On the other had, it takes the original VBA script 0.60 seconds to run the data 
 
 
 # Summary 
+
+## Advantages and Disadvantages of Refactoring. 
+
+Refactoring is the process of changing the codes internal structure without altering its external behavior. According to Mr Martin Fowler there are four reasons to refactor: to improve design, make uderstanding the software easier, and help us debug and run the code faster. In essence it is a process of optimizing the way the code runs. The downside of refactoring is that it consumes a lot of time and it may be harder for the person who did not write the original code to refactor the code. 
+
+## Advantages and Disadvantages of Refactoring this Project. 
+
+In this project I refactored 
