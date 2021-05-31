@@ -22,7 +22,7 @@ Overall, we can say that the stock market performed much better in 2017 compared
 
 It takes the original VBA script 0.61 seconds to run the data in 2017, while it takes only 0.08 seconds to run the refactored code as can be seen in image 1 and image 2.
 
-![VBA_Challenge_2017_original] (Resources/VBA_Challenge_2017_original.png)
+![VBA_Challenge_2017_original](Resources/VBA_Challenge_2017_original.png)
 
 ***Image 1: Timer to run the code in 2017 (Original)***
 
@@ -33,7 +33,7 @@ It takes the original VBA script 0.61 seconds to run the data in 2017, while it 
 
 On the other had, it takes the original VBA script 0.60 seconds to run the data in 2018, while it takes only 0.86 to run the refactored code, as can be seen in image 3 and image 4.
 
-![VBA_Challenge_2018_original] (Resources/VBA_Challenge_2018_original.png)
+![VBA_Challenge_2018_original](Resources/VBA_Challenge_2018_original.png)
 
 ***Image 3: Timer to run the code in 2018 (Original)***
 
