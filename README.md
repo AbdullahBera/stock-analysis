@@ -15,9 +15,11 @@ The purpose of this study is to help Steve help his parents formulate a well-dev
 Overall, we can say that the stock market performed much better in 2017 compared to 2018. The top-performing stock was DQ with a high return rate of about 200%. This may be one of the main reasons Steve's parents wanted to invest in the stock DQ. However, when the stock market did very badly in 2018, the worst performing stock was DQ. I can simply conclude that the stock DQ has a high beta ratio. This means that when the stock market is doing good, DQ is performing much better than the market and in contrast, when the market is doing bad, DQ is performing worse than the market. Below I provide the results of 12 of the stocks according to their total daily volume and their return for 2017 and 2018, respectively.
 
 
-![VBA_Challenge_Return_2017](Resources/VBA_Challenge_Return_2017.png)  ***Table 1: All Stocks Results in 2017*** 
+![VBA_Challenge_Return_2017](Resources/VBA_Challenge_Return_2017.png)  
+***Table 1: All Stocks Results in 2017*** 
 
-![VBA_Challenge_Return_2018](Resources/VBA_Challenge_Return_2018.png) ***Table 2: All Stocks Results in 2018*** 
+![VBA_Challenge_Return_2018](Resources/VBA_Challenge_Return_2018.png) 
+***Table 2: All Stocks Results in 2018*** 
 
 ## Refactoring the Code 
 
