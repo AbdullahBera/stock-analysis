@@ -19,6 +19,7 @@ Overall, we can say that the stock market performed much better in 2017 compared
 ***Table 1: All Stocks Results in 2017*** 
 
 ![VBA_Challenge_Return_2018](Resources/VBA_Challenge_Return_2018.png) 
+
 ***Table 2: All Stocks Results in 2018*** 
 
 ## Refactoring the Code 
